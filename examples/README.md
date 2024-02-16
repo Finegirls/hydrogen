@@ -20,6 +20,14 @@ These are some of the most commonly used Hydrogen examples. Browse the folders i
 | [Optimistic Cart UI](/examples/optimistic-cart-ui/)                       | How to optimistically remove a cart line item from the cart.                                                                                                                                                                                                                |
 | [Third-party Queries and Caching](/examples/third-party-queries-caching/) | How to leverage Oxygen's sub-request caching when querying third-party GraphQL API in Hydrogen.                                                                                                                                                                             |
 
+## Install an example
+
+Setup a new project example by using the `--template` CLI param:
+
+```bash
+npm create @shopify/hydrogen@latest -- --template custom-cart-method
+```
+
 ## Request an example
 
 If you don’t see the example you’re looking for, you can [request one through the Discussions tab](https://github.com/Shopify/hydrogen/discussions/new?category=ideas-feature-requests&title=Hydrogen%20example%20request%3A%20%5BYour%20request%20here%5D%0A%0A).
