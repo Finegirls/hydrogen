@@ -52,6 +52,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
+      <script type=text/javascript src=https://forms-akamai.smsbump.com/769252/form_286684.js?ver=1708895397></script>
       <body className="w-full">
         <div className="flex p-4 w-full">
           <div className="flex flex-col w-1/4">
